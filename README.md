@@ -1,2 +1,2 @@
 # SIGNATE
-SIGNATEで使ったコードを管理する場所
+SIGNATEのコード管理
